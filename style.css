@@ -32,3 +32,22 @@ li {
   border: 1px solid #d1d1d1;
   border-radius: 5px;
 }
+.overview {
+  margin-bottom: 20px;
+}
+.weather-temperature img {
+  margin-right: 10px;
+  height: 64px;
+  width: 64px;
+}
+.weather-temperature strong {
+  color: #000000;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
+.weather-temperature .units {
+  position: relative;
+  font-size: 16px;
+  top: -34px;
+}
