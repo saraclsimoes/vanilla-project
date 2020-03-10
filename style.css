@@ -33,6 +33,7 @@ li {
   border-radius: 5px;
 }
 .overview {
+  margin-top: 30px;
   margin-bottom: 20px;
   text-transform: capitalize;
 }
